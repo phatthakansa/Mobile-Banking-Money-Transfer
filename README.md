@@ -2,6 +2,9 @@
 
   This project contains manual test cases and testing documentation for a money transfer feature in a mobile banking application.
 
+**test case design from workflow:**  
+  ![defect design](tranfer-flow.png)
+
 🔬 Scope
 
   • Design test cases based on the following flow:
@@ -18,15 +21,16 @@
 
   • All test cases written in English only.
 
-🔗 Project Structure
+## 📁 Files Included
 
-  qa-transfer-app/
-  ├── README.md
-  ├── test-cases.md
-  ├── test-summary.md
-  ├── bug-reports.md
-  ├── test-cases.xlsx
-  └── tranfer-flow.png
+| File Name             | Description                        |
+|-----------------------|------------------------------------|
+| `README.md`           | Project summary and documentation  |
+| `test-cases.md`       | Detailed test-case                 |
+| `test-summary.md`     | Detailed test-summary              |
+| `bug-reports.md`      | Detailed bug report                |
+| `test-cases.xlsx`     | test-cases excel file              |
+| `tranfer-flow.png`    | workflow picture                   |
 
 🛠️ Tools Used
 
