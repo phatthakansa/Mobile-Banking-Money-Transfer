@@ -26,7 +26,7 @@
   ├── test-summary.md
   ├── bug-reports.md
   ├── test-cases.xlsx
-  ├── tranfer-flow.png
+  └── tranfer-flow.png
 
 🛠️ Tools Used
 
