@@ -1,4 +1,4 @@
-🏦💵 Mobile Banking Money Transfer Test Project
+🏦💵 Mobile Banking Money Transfer Project
 
   This project contains manual test cases and testing documentation for a money transfer feature in a mobile banking application.
 
