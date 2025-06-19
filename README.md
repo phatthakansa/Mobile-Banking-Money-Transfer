@@ -25,11 +25,8 @@
   ├── test-cases.md
   ├── test-summary.md
   ├── bug-reports.md
-  ├── manual/
-  │   ├── test-cases.xlsx
-  │   └── screenshots/
-  ├── docs/
-  │   └── test-plan.md
+  ├── test-cases.xlsx
+  ├── tranfer-flow.png
 
 🛠️ Tools Used
 
